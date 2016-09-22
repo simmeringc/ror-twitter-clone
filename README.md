@@ -5,4 +5,4 @@ This is the sample application for the
 Learn Web Development with Rails*](http://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com).
 
-* Visit the sample app at http://www.tranquil-caverns-96577.herokuapp.com
+* Visit the sample app at https://tranquil-caverns-96577.herokuapp.com
